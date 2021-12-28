@@ -1,0 +1,22 @@
+{
+  "name": "my_name",
+  "version": "1.0.0",
+  "description": "belajar express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meirianni/my_name.git"
+  },
+  "author": "mei_rianni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meirianni/my_name/issues"
+  },
+  "homepage": "https://github.com/meirianni/my_name#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
